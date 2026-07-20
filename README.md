@@ -4,8 +4,6 @@
 
 # About Me
 
-<img align="right" alt="Hanako" width="180" src="./assets/portrait.jpg" />
-
 Hi, I'm **Hanako** ([@hanakokoizumi](https://github.com/hanakokoizumi)). Full Stack Developer — I turn curiosity into things that run.
 
 Blog: [hanako.me](https://hanako.me/)
@@ -74,18 +72,18 @@ Blog: [hanako.me](https://hanako.me/)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanakokoizumi&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+    <img src="https://github-trophy.vercel.app/?username=hanakokoizumi&theme=flat&no-frame=true&column=7&margin-w=8" alt="Trophies" />
   </a>
 </p>
 
 <p align="center">
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=hanakokoizumi&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000&border_color=66666666&hide_border=false"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=hanakokoizumi&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000&border_color=66666666"
   />
   <img
     alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanakokoizumi&layout=compact&theme=default&bg_color=00000000&border_color=66666666&hide_border=false"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hanakokoizumi&layout=compact&theme=default&bg_color=00000000&border_color=66666666"
   />
 </p>
 
