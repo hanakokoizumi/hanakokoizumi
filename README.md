@@ -1,14 +1,6 @@
-<!-- <p align="center">
-  <img src="./assets/banner.jpg" alt="Sakura day scene from hanako.me" width="100%" />
-</p> -->
+# About Me ![Profile views](https://komarev.com/ghpvc/?username=hanakokoizumi&label=Profile%20views&color=bd536d&style=flat-square)
 
-# About Me
-
-Hi, I'm **Hanako** ([@hanakokoizumi](https://github.com/hanakokoizumi)). Full Stack Developer — I turn curiosity into things that run.
-
-Blog: [hanako.me](https://hanako.me/)
-
-![Profile views](https://komarev.com/ghpvc/?username=hanakokoizumi&label=Profile%20views&color=bd536d&style=flat-square)
+Hi, I'm **Hanako** ([@hanakokoizumi](https://github.com/hanakokoizumi)).
 
 - 🔭 Focus on **full-stack web**, **networking**, **virtualization**, and **self-hosted** infra
 - 🌱 Working with **Next.js**, **React**, **TypeScript**, plus Go / Python when it fits
